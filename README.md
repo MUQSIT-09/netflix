@@ -2,7 +2,7 @@
 
 A **Netflix-inspired UI Clone** built using **React** and the **TMDB (The Movie Database) API**. It replicates the core layout of Netflix, showcasing trending movies, dynamic banners, and category-wise content rows. It also features user-friendly notifications using **React-Toastify**.
 
-🔗 **Live Demo**: [Click here to view](https://686780ea41b3a696ee5adb3--gregarious-sopapillas-ae4e01.netlify.app/)
+🔗 **Live Demo**: [Click here to view](https://686780ea41b3a696ee5adb3c--gregarious-sopapillas-ae4e01.netlify.app/)
 
 ---
 

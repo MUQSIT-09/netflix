@@ -37,7 +37,6 @@ A **Netflix-inspired UI Clone** built using **React** and the **TMDB (The Movie 
 - **JavaScript (ES6+)**
 - **CSS3**
 - **TMDB API** (The Movie Database)
-- **Axios**
 - **React-Toastify**
 - **Netlify** (for deployment)
 

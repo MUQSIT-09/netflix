@@ -1,12 +1,47 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **Netflix-inspired UI Clone** built using **React** and the **TMDB (The Movie Database) API**. It replicates the core layout of Netflix, showcasing trending movies, dynamic banners, and category-wise content rows. It also features user-friendly notifications using **React-Toastify**.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [Click here to view](https://686780ea41b3a696ee5adb3--gregarious-sopapillas-ae4e01.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[![Screenshot 1](https://i.postimg.cc/W3kFGtd6/Screenshot-2025-07-09-145955.png)](https://postimg.cc/ftMRZzjJ)  
+*Homepage with banner and movie rows*
+
+[![Screenshot 2](https://i.postimg.cc/dQ819b0F/Screenshot-2025-07-09-150010.png)](https://postimg.cc/w3jgqbJ4)  
+*Movie categories and smooth scroll layout*
+
+[![Screenshot 3](https://i.postimg.cc/xdK7Z3NX/Screenshot-2025-07-09-150029.png)](https://postimg.cc/qtvjhnLr)  
+*Responsive UI with interactive posters*
+
+---
+
+## 🚀 Features
+
+- 🔥 Powered by **TMDB API** to fetch real-time movie data
+- 📂 Category-wise content rows (Trending, Originals, Top Rated, etc.)
+- 🎬 Dynamic featured movie banner
+- 🧩 Modular **React components**
+- 🛎️ Toast notifications using **React-Toastify**
+- 💻 Responsive design with hover animations
+- ⚙️ Axios used for API requests
+
+---
+
+## ⚙️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **TMDB API** (The Movie Database)
+- **Axios**
+- **React-Toastify**
+- **Netlify** (for deployment)
+
+---
+
+
+
